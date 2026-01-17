@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Arthur\\Desktop\\Estudos\\Lab.Coffe\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3F9995-FB0D-4FD2-973C-E437A8F5CF63}|src\\Lab.Coffe.API\\Lab.Coffe.API.csproj|c:\\users\\arthur\\desktop\\estudos\\lab.coffe\\src\\lab.coffe.api\\controllers\\coffeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3F9995-FB0D-4FD2-973C-E437A8F5CF63}|src\\Lab.Coffe.API\\Lab.Coffe.API.csproj|solutionrelative:src\\lab.coffe.api\\controllers\\coffeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3F9995-FB0D-4FD2-973C-E437A8F5CF63}|src\\Lab.Coffe.API\\Lab.Coffe.API.csproj|c:\\users\\arthur\\desktop\\estudos\\lab.coffe\\src\\lab.coffe.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3F9995-FB0D-4FD2-973C-E437A8F5CF63}|src\\Lab.Coffe.API\\Lab.Coffe.API.csproj|solutionrelative:src\\lab.coffe.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoffeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\Desktop\\Estudos\\Lab.Coffe\\src\\Lab.Coffe.API\\Controllers\\CoffeeController.cs",
+              "RelativeDocumentMoniker": "src\\Lab.Coffe.API\\Controllers\\CoffeeController.cs",
+              "ToolTip": "C:\\Users\\Arthur\\Desktop\\Estudos\\Lab.Coffe\\src\\Lab.Coffe.API\\Controllers\\CoffeeController.cs",
+              "RelativeToolTip": "src\\Lab.Coffe.API\\Controllers\\CoffeeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T11:34:22.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\Desktop\\Estudos\\Lab.Coffe\\src\\Lab.Coffe.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Lab.Coffe.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Arthur\\Desktop\\Estudos\\Lab.Coffe\\src\\Lab.Coffe.API\\Program.cs",
+              "RelativeToolTip": "src\\Lab.Coffe.API\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T11:34:13.376Z",
+              "EditorCaption": ""
             }
           ]
         }
