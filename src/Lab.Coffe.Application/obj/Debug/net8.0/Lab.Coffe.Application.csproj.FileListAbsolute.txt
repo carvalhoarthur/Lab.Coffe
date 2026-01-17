@@ -1,0 +1,15 @@
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Application\bin\Debug\net8.0\Lab.Coffe.Application.deps.json
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Application\bin\Debug\net8.0\Lab.Coffe.Application.dll
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Application\bin\Debug\net8.0\Lab.Coffe.Application.pdb
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Application\bin\Debug\net8.0\Lab.Coffe.Domain.dll
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Application\bin\Debug\net8.0\Lab.Coffe.Domain.pdb
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Application\obj\Debug\net8.0\Lab.Coffe.Application.csproj.AssemblyReference.cache
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Application\obj\Debug\net8.0\Lab.Coffe.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Application\obj\Debug\net8.0\Lab.Coffe.Application.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Application\obj\Debug\net8.0\Lab.Coffe.Application.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Application\obj\Debug\net8.0\Lab.Coffe.Application.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Application\obj\Debug\net8.0\Lab.Coff.E46A7D8D.Up2Date
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Application\obj\Debug\net8.0\Lab.Coffe.Application.dll
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Application\obj\Debug\net8.0\refint\Lab.Coffe.Application.dll
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Application\obj\Debug\net8.0\Lab.Coffe.Application.pdb
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Application\obj\Debug\net8.0\ref\Lab.Coffe.Application.dll

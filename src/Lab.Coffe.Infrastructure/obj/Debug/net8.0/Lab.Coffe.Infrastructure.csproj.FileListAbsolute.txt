@@ -1,0 +1,17 @@
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Infrastructure\obj\Debug\net8.0\Lab.Coffe.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Infrastructure\obj\Debug\net8.0\Lab.Coffe.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Infrastructure\obj\Debug\net8.0\Lab.Coffe.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Infrastructure\obj\Debug\net8.0\Lab.Coffe.Infrastructure.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Infrastructure\obj\Debug\net8.0\Lab.Coffe.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Infrastructure\bin\Debug\net8.0\Lab.Coffe.Infrastructure.deps.json
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Infrastructure\bin\Debug\net8.0\Lab.Coffe.Infrastructure.dll
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Infrastructure\bin\Debug\net8.0\Lab.Coffe.Infrastructure.pdb
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Infrastructure\bin\Debug\net8.0\Lab.Coffe.Application.dll
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Infrastructure\bin\Debug\net8.0\Lab.Coffe.Domain.dll
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Infrastructure\bin\Debug\net8.0\Lab.Coffe.Application.pdb
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Infrastructure\bin\Debug\net8.0\Lab.Coffe.Domain.pdb
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Infrastructure\obj\Debug\net8.0\Lab.Coff.7D69CEAA.Up2Date
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Infrastructure\obj\Debug\net8.0\Lab.Coffe.Infrastructure.dll
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Infrastructure\obj\Debug\net8.0\refint\Lab.Coffe.Infrastructure.dll
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Infrastructure\obj\Debug\net8.0\Lab.Coffe.Infrastructure.pdb
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Infrastructure\obj\Debug\net8.0\ref\Lab.Coffe.Infrastructure.dll
