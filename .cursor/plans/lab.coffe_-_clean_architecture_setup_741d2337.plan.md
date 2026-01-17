@@ -53,6 +53,12 @@ todos:
     dependencies:
       - setup-docker-kubernetes
       - setup-unit-tests
+  - id: todo-1768656219856-0g8mshfq0
+    content: Configurar o arquivo gitignore para ignorar alterações em arquivos das pastas obj/Debug e bin/Debug
+    status: pending
+  - id: todo-1768656275313-di01tg4o8
+    content: ""
+    status: pending
 ---
 
 # Lab.Coffe - Projeto Backend .NET Core 8 com Clean Architecture

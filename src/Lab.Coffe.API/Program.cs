@@ -21,8 +21,19 @@ builder.Host.UseSerilog();
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 
-// Swagger configuration
-builder.Services.AddSwaggerGen();
+// Swagger configuration - será gerado automaticamente com informações dos controllers
+builder.Services.AddSwaggerGen(c =>
+{
+    // Documento Swagger v1 - será gerado automaticamente com informações básicas
+    // O Swashbuckle gera automaticamente os metadados da API
+    // Include XML comments if available
+    var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+    var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+    if (File.Exists(xmlPath))
+    {
+        c.IncludeXmlComments(xmlPath);
+    }
+});
 
 // CORS
 builder.Services.AddCors(options =>
@@ -55,13 +66,22 @@ builder.Services.AddHealthChecks()
 var app = builder.Build();
 
 // Configure the HTTP request pipeline
-if (app.Environment.IsDevelopment())
+
+// Swagger - habilitar em Development e para debug local
+// Em produção, considere adicionar autenticação ou desabilitar
+var isDevelopment = app.Environment.IsDevelopment() || 
+                    app.Environment.EnvironmentName == "Development" ||
+                    builder.Configuration.GetValue<bool>("EnableSwagger", false);
+
+if (isDevelopment)
 {
     app.UseSwagger();
     app.UseSwaggerUI(c =>
     {
         c.SwaggerEndpoint("/swagger/v1/swagger.json", "Lab.Coffe API v1");
-        c.RoutePrefix = string.Empty; // Swagger UI at root
+        c.RoutePrefix = "swagger"; // Swagger UI em /swagger para corresponder ao launchUrl
+        c.DisplayRequestDuration();
+        c.EnableTryItOutByDefault();
     });
 }
 

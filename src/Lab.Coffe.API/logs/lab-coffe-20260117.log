@@ -1,0 +1,4 @@
+2026-01-17 08:47:54.591 -03:00 [INF] HTTP GET /swagger responded 404 in 3.1823 ms
+2026-01-17 08:49:11.377 -03:00 [INF] HTTP GET /swagger responded 404 in 0.0839 ms
+2026-01-17 09:16:27.571 -03:00 [INF] HTTP GET /swagger responded 404 in 1.1889 ms
+2026-01-17 09:18:23.976 -03:00 [INF] HTTP GET /swagger responded 404 in 1.5614 ms

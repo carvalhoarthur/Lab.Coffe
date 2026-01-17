@@ -13,3 +13,4 @@ C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Application\obj\Debug\ne
 C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Application\obj\Debug\net8.0\refint\Lab.Coffe.Application.dll
 C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Application\obj\Debug\net8.0\Lab.Coffe.Application.pdb
 C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Application\obj\Debug\net8.0\ref\Lab.Coffe.Application.dll
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Application\obj\Debug\net8.0\Lab.Coffe.Application.sourcelink.json

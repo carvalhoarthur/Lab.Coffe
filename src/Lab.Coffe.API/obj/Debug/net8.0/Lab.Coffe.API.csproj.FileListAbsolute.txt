@@ -124,3 +124,5 @@ C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.API\obj\Debug\net8.0\ref
 C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.API\obj\Debug\net8.0\Lab.Coffe.API.pdb
 C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.API\obj\Debug\net8.0\Lab.Coffe.API.genruntimeconfig.cache
 C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.API\obj\Debug\net8.0\ref\Lab.Coffe.API.dll
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.API\obj\Debug\net8.0\Lab.Coffe.API.sourcelink.json
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

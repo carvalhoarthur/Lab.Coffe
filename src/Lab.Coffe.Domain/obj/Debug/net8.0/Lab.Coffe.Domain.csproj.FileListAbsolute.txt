@@ -9,3 +9,4 @@ C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Domain\obj\Debug\net8.0\
 C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Domain\obj\Debug\net8.0\refint\Lab.Coffe.Domain.dll
 C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Domain\obj\Debug\net8.0\Lab.Coffe.Domain.pdb
 C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Domain\obj\Debug\net8.0\ref\Lab.Coffe.Domain.dll
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Domain\obj\Debug\net8.0\Lab.Coffe.Domain.sourcelink.json

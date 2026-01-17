@@ -15,3 +15,4 @@ C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Infrastructure\obj\Debug
 C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Infrastructure\obj\Debug\net8.0\refint\Lab.Coffe.Infrastructure.dll
 C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Infrastructure\obj\Debug\net8.0\Lab.Coffe.Infrastructure.pdb
 C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Infrastructure\obj\Debug\net8.0\ref\Lab.Coffe.Infrastructure.dll
+C:\Users\Arthur\Desktop\Estudos\Lab.Coffe\src\Lab.Coffe.Infrastructure\obj\Debug\net8.0\Lab.Coffe.Infrastructure.sourcelink.json

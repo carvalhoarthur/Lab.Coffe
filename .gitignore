@@ -4,4 +4,8 @@
 
 /.vs/Lab.Coffe/FileContentIndex/0f4350ce-adfb-4e5f-9f95-c416112a17dd.vsidx
 /.gitignore
-/src/Lab.Coffe.Domain/obj/Debug/net8.0
+# Build results
+bin/
+obj/
+
+	
