@@ -4,3 +4,7 @@
 
 /.vs/Lab.Coffe/FileContentIndex
 /.gitignore
+# Ignore Debug build outputs
+bin/Debug/
+obj/Debug/
+.vs/
